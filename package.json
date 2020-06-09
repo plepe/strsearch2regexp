@@ -7,7 +7,7 @@
     "lint": "standard src/*.js"
   },
   "main": "src/strsearch2regexp.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts a search string to a unicode regexp with character variants (e.g. \"foo bar\" -> \"f[oöó][oöó].*b[aäá]r\")",
   "repository": "https://github.com/plepe/strsearch2regexp",
   "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
